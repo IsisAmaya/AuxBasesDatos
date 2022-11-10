@@ -1,6 +1,6 @@
-create database ecommerse;
+create database ecommerce;
 
-use ecommerse;
+use ecommerce;
 
 create table CLIENTE (
 Id_cliente int not null auto_increment primary key,
